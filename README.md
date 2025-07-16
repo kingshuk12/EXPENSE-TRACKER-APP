@@ -1,1 +1,25 @@
 # EXPENSE-TRACKER-APP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OUTPUT
